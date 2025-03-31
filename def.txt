@@ -1,1 +1,2 @@
 This is def file first line
+new line in def
